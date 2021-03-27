@@ -1,26 +1,24 @@
-???
----
+## reAtomizer
 
-dnSpy is a tool to reverse engineer .NET assemblies. It includes a decompiler, a debugger and an assembly editor (and more) and can be easily extended by writing your own plugin. It uses [dnlib](https://github.com/0xd4d/dnlib) to read and write assemblies so it can handle obfuscated assemblies (eg. malware) without crashing.
+dnSpy is a tool to reverse engineer .NET assemblies. It includes a decompiler, a debugger and an assembly editor (and more) and can be easily extended by writing your own plugin, of which there are several of in reAtomizer. It uses [dnlib](https://github.com/0xd4d/dnlib) to read and write assemblies so it can handle obfuscated assemblies (eg. malware) without crashing.
+
+deAtomizer was RitterOnDotNet's modded dnSpy program. I will be updating its dependencies to the latest dotNet framework, as well as using the latest dnSpy files, courtesy of pkmuru for maintaining. Thanks to both of you!
 
 License
 -------
 [GPLv3](https://github.com/0xd4d/dnSpy/blob/master/Licenses/GPLv3.txt)
 
-[Credits](https://github.com/0xd4d/dnSpy/blob/master/Licenses)
+[License Credits](https://github.com/0xd4d/dnSpy/blob/master/Licenses)
 --------------------------------------------------------------
 
-EXE
+Project Credits
 ---
-[S](https://github.com/0xd4d/dnSpy/releases)
+[Original dnSpy](https://github.com/dnSpy/dnSpy/)
+For the groundwork that lets this even be possible.
 
-[B](https://ci.appveyor.com/project/0xd4d/dnspy/build/artifacts)
+[pkmuru's Updated dnSpy](https://github.com/pkmuru/dnSpy)
+For the most up-to-date maintenance of dnSpy.
 
-[Translate](https://crowdin.com/project/dnspy)
+[deAtomizer](https://github.com/ritterondotnet/deAtomizer)
+For the customization, plugins, and modifications.
 ----------------------------------------------
-
-[Wiki](https://github.com/0xd4d/dnSpy/wiki)
--------------------------------------------
-
-EOF
----
