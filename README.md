@@ -6,19 +6,19 @@ deAtomizer was RitterOnDotNet's modded dnSpy program. I will be updating its dep
 
 License
 -------
-[GPLv3](https://github.com/0xd4d/dnSpy/blob/master/Licenses/GPLv3.txt)
+- [GPLv3](https://github.com/0xd4d/dnSpy/blob/master/Licenses/GPLv3.txt)
 
-[License Credits](https://github.com/0xd4d/dnSpy/blob/master/Licenses)
+- [License Credits](https://github.com/0xd4d/dnSpy/blob/master/Licenses)
 --------------------------------------------------------------
 
 Project Credits
 ---
-[Original dnSpy](https://github.com/dnSpy/dnSpy/)
+- [Original dnSpy](https://github.com/dnSpy/dnSpy/)
 For the groundwork that lets this even be possible.
 
-[pkmuru's Updated dnSpy](https://github.com/pkmuru/dnSpy)
+- [pkmuru's Updated dnSpy](https://github.com/pkmuru/dnSpy)
 For the most up-to-date maintenance of dnSpy.
 
-[deAtomizer](https://github.com/ritterondotnet/deAtomizer)
+- [deAtomizer](https://github.com/ritterondotnet/deAtomizer)
 For the customization, plugins, and modifications.
 ----------------------------------------------
